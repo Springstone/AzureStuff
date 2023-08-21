@@ -179,14 +179,6 @@
                                         {
                                             "field": "Microsoft.Compute/imageOffer",
                                             "like": "*-WS2016-BYOL"
-                                        },
-                                        {
-                                            "field": "Microsoft.Compute/imageOffer",
-                                            "like": "*-WS2012R2"
-                                        },
-                                        {
-                                            "field": "Microsoft.Compute/imageOffer",
-                                            "like": "*-WS2012R2-BYOL"
                                         }
                                     ]
                                 }
